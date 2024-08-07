@@ -1,0 +1,9 @@
+hour=int(input("Enter time"))
+if hour<12:
+    print("\nGood Morning")
+elif hour>15:
+    print("\nGood afternoon")
+elif hour<17:
+    print("\nGood Evening")
+elif hour<23:
+    print("\nGood Night")

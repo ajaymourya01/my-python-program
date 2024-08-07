@@ -1,0 +1,3 @@
+d=int(input("Enter your distance"))
+s=int(input("Enter your distance"))
+print("Totle time=",d/s)
